@@ -11,7 +11,11 @@ A Cuisine Order/Delivery website
 ## Design
 Got the design inspiration for the homepage from behance
 
-### Currently using ClickUp to prioritize tasks.
+## Platforms Used
+- ClickUp
+- VSCode
+- Figma
+- Codepen
 
 
 ##More updates coming..
