@@ -49,13 +49,13 @@ textarea {
 .send-button {
     margin-top: 15px;
     height: 34px;
-    width: 400px;
+    width: 300px;
     overflow: hidden;
     transition: all .2s ease-in-out;
 }
 
 .alt-send-button {
-    width: 400px;
+    width: 300px;
     height: 34px;
     transition: all .2s ease-in-out;
 }
