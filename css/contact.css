@@ -5,6 +5,11 @@ body {
     padding-bottom: 100px;
 }
 
+.navbar-logo {
+    padding: 15px;
+    color: #fff;
+}
+
 #contact {
     width: 100%;
     height: 100%;
