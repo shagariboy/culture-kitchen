@@ -27,20 +27,20 @@ body {
     margin: 0 auto;
     padding: 20px;
     position: relative;
-    max-width: 840px;
+    max-width: 700px;
 }
 
 /* Left contact page */
 .form-horizontal {
     /*float: left;*/
-    max-width: 400px;
+    max-width: 300px;
     font-family: 'Lato';
     font-weight: 400;
 }
 
 .form-control,
 textarea {
-    max-width: 400px;
+    max-width: 300px;
     background-color: #000;
     color: #fff;
     letter-spacing: 1px;
