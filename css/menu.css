@@ -2,7 +2,7 @@
     padding: 30px 0px;
 }
 .page_title h1 {
-    color: #c0392b;
+    color: #000;
     font-weight: 700;
     line-height: 2;
     margin-bottom: 0;
@@ -10,7 +10,7 @@
     text-transform: capitalize;
 }
 .page_title h1::before {
-    background: #c0392b;
+    background: #000;
     width: 70px;
     height: 2px;
     position: absolute;
@@ -42,19 +42,19 @@
     transition: .3s;
 }
 .nav-tabs .nav-link.active {
-    background: #c0392b;
+    background: #000;
     color: #fff;
     font-weight: 700;
-    border: 1px solid #c0392b;
+    border: 1px solid #000;
     text-transform: capitalize;
 }
 .nav-link {
     color: #000;
 }
 .nav-tabs .nav-link:hover {
-    background: #c0392b;
+    background: #000;
     color: #fff;
-    border: 1px solid #c0392b;
+    border: 1px solid #000;
 }
 .single_menu {
     position: relative;
@@ -82,7 +82,7 @@ clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
 .menu_content h4 {
     font-size: 25px;
     font-weight: 300;
-    border-bottom: 1px dashed #c0392b;
+    border-bottom: 1px dashed #000;
     line-height: 2;
     text-transform: capitalize;
 }
@@ -91,7 +91,7 @@ clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
     font-weight: 800;
     float: right;
     font-style: italic;
-    color: #c0392b;
+    color: #000;
 }
 .menu_content p {
     font-weight: 200;
@@ -110,8 +110,8 @@ clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
 	width: 140px;
 }
 .btn.btn-danger {
-	background: #c0392b;
-	border: 1px solid #c0392b;
+	background: #000;
+	border: 1px solid #000;
 	transition: .3s;
 	position: relative;
 	z-index: 1;
